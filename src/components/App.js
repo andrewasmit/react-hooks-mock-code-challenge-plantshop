@@ -3,6 +3,8 @@ import Header from "./Header";
 import PlantPage from "./PlantPage";
 
 function App() {
+
+  // Return of JSX
   return (
     <div className="app">
       <Header />
